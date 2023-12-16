@@ -9,7 +9,7 @@ const Navbar = ({isLoggedIn, setIsLoggedIn}) => {
         <div className="flex justify-center">
             <div>
                 <Link to="/">
-                    <img src={logo} alt="logo" width={160} height={20} />
+                    <img src={logo} alt="logo" width={160} height={20} loading="lazy"/>
                 </Link>
             </div>
 
