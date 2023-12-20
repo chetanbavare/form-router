@@ -12,10 +12,7 @@ A React JS project featuring a login and sign-up form with additional details fo
 
 ## Form Preview
 
-<div style="display:flex; justify-content:space-between;">
-  <img src="login_page.png" alt="Login Form" width="400"/>
-  <img src="signup_page.png" alt="Sign-up Form" width="400" />
-</div>
+![Sign-up Form](signup_page.png)
 
 ## Technologies Used
 
